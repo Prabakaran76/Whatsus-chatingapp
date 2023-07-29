@@ -8,3 +8,6 @@ Whatsup code:
 Call:
    i)Video call added
    ii) Audio call added
+
+Status:
+   Status feature is added.
