@@ -4,3 +4,7 @@ Whatsup code:
 2) Emojes
 3) Files sharing
 4) video and audio file sharing
+
+Call:
+   i)Video call added
+   ii) Audio call added
