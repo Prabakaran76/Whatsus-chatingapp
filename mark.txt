@@ -10,4 +10,4 @@ Call:
    ii) Audio call added
 
 Status:
-   Status feature is added and video call bug is fixed and improved.
+  error fixed.
