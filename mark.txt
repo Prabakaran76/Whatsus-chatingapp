@@ -1,4 +1,5 @@
-55 66 77
-10 20 25
-20 40 65
-68 78 85
+NAME Maths Science Social
+ajay  55     66      77
+vijay 10     20      25
+pajay 20     40      65
+lajay 68     78      85
